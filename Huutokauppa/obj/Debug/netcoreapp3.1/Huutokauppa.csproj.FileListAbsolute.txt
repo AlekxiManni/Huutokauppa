@@ -1,0 +1,13 @@
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.csprojAssemblyReference.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.AssemblyInfoInputs.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.AssemblyInfo.cs
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\bin\Debug\netcoreapp3.1\Huutokauppa.exe
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\bin\Debug\netcoreapp3.1\Huutokauppa.deps.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\bin\Debug\netcoreapp3.1\Huutokauppa.runtimeconfig.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\bin\Debug\netcoreapp3.1\Huutokauppa.runtimeconfig.dev.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\bin\Debug\netcoreapp3.1\Huutokauppa.dll
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\bin\Debug\netcoreapp3.1\Huutokauppa.pdb
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.dll
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.pdb
+E:\VisualStudioProjektit\Koulu\Perusteet\Huutokauppa\Huutokauppa\obj\Debug\netcoreapp3.1\Huutokauppa.genruntimeconfig.cache
